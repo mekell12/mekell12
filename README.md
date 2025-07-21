@@ -1,2 +1,2 @@
-# Hi there
-I'm new to GitHub
+# Hi there.
+I like to program.
